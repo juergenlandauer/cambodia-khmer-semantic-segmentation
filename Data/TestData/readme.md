@@ -1,1 +1,2 @@
-This directory is deliberately empty.
+This directory is intentionally empty.
+
